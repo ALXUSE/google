@@ -1,1 +1,1 @@
-SpreadsheetApp.getActiveSpreadsheet().getSheetByName(sheetName);
+"C1:C"
