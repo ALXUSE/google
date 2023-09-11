@@ -1,1 +1,1 @@
-"Sheet1"
+SpreadsheetApp.getActiveSpreadsheet().getSheetByName(sheetName);
