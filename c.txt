@@ -1,1 +1,1 @@
-<p style="color:#FFFFFF">"C1:C"</p>
+"C1:C"
